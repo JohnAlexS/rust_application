@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Agenda\target\debug\deps\libc-b27a597bd11c6bf0.rmeta: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\macros.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\fixed_width_ints.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\align.rs
+
+C:\Users\Alex\Documents\Agenda\target\debug\deps\liblibc-b27a597bd11c6bf0.rlib: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\macros.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\fixed_width_ints.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\align.rs
+
+C:\Users\Alex\Documents\Agenda\target\debug\deps\libc-b27a597bd11c6bf0.d: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\macros.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\fixed_width_ints.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\align.rs
+
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\lib.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\macros.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\fixed_width_ints.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\mod.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\mod.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.132\src\windows\gnu\align.rs:
